@@ -1,7 +1,6 @@
-# Webots Screw Detection -- Rule-Based Active Perception Demo
+# ActiPercept -- Active Perception for Screw Detection 
 
-This repository contains a **rule-based controller** for a Webots camera
-that moves toward a **user-selected laptop corner** on a desk to
+This repository contains an active perception tool, called **ActiPercep** that enables the control of a camera in order to
 **maximize screw detection confidence**.
 
 ------------------------------------------------------------------------
