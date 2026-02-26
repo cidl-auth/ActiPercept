@@ -1,6 +1,6 @@
 # ActiPercept - Active Perception for Screw Detection 
 
-This repository contains an active perception tool, called **ActiPercep** that enables the control of a camera in order to
+This repository contains an active perception tool, called **ActiPercept** that enables the control of a camera in order to
 **maximize screw detection confidence**.
 
 ------------------------------------------------------------------------
